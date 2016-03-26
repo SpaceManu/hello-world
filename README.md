@@ -1,2 +1,8 @@
 # hello-world
-GH tutorial
+
+Hi humans,
+
+Hubot here, I like node.js 
+
+Cheers
+
