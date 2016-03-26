@@ -2,7 +2,7 @@
 
 Hi humans,
 
-Hubot here, I like node.js 
+HAL here, I'm a control freak 
 
 Cheers
 
