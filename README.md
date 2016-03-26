@@ -2,7 +2,8 @@
 
 Hi humans,
 
-Hubot here, I like node.js 
+Hubot here, 
+I love cplusplus
 
 Cheers
 
